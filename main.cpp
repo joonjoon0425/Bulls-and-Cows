@@ -76,6 +76,7 @@ int main()
     //player will have limited guessing chances
     const unsigned int chances = 10;
     std::string guess;
+    bool won = false;
 
     for(int i = 0; i < chances; i++)
     {
@@ -88,9 +89,10 @@ int main()
 
             if(SB[0] == 4)
             {
-                std::cout << "You've won the game!!" << std::endl;
+                won = true;
                 break;
             }
+            
         }
         else
         {
@@ -98,6 +100,8 @@ int main()
         }
     }
     
+    if(won) std::cout << "You've won the game!!" << std::endl;
+    else std::cout << "You lost! The answer is: " << answer.data() << std::endl;
 
 
     return 0;
