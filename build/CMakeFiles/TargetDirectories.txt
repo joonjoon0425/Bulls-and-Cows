@@ -1,0 +1,3 @@
+/home/joonj/projects/bullsAndCows/build/CMakeFiles/bullsAndCows.dir
+/home/joonj/projects/bullsAndCows/build/CMakeFiles/edit_cache.dir
+/home/joonj/projects/bullsAndCows/build/CMakeFiles/rebuild_cache.dir

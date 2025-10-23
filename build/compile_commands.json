@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/joonj/projects/bullsAndCows/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/bullsAndCows.dir/main.cpp.o -c /home/joonj/projects/bullsAndCows/main.cpp",
+  "file": "/home/joonj/projects/bullsAndCows/main.cpp",
+  "output": "CMakeFiles/bullsAndCows.dir/main.cpp.o"
+}
+]

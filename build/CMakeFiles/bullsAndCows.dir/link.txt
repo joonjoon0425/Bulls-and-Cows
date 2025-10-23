@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/bullsAndCows.dir/main.cpp.o -o bullsAndCows 
